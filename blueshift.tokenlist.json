@@ -1,0 +1,670 @@
+{
+  "name": "Blueshift Token List",
+  "timestamp": "2022-12-05T09:00:00+00:00",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "ipfs://",
+  "keywords": ["blueshift", "default"],
+  "tags": {},
+  "tokens": [
+    {
+      "name": "Wrapped ADA",
+      "address": "0xAE83571000aF4499798d1e3b0fA0070EB3A3E3F9",
+      "symbol": "WADA",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/ada.svg"
+    },
+    {
+      "name": "Dai Token",
+      "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
+      "symbol": "multiDAI",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/dai.svg"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+      "symbol": "multiUSDT",
+      "decimals": 6,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/usdt.svg"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "symbol": "multiUSDC",
+      "decimals": 6,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/usdc.svg"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+      "symbol": "multiWBTC",
+      "decimals": 8,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/btc.svg"
+    },
+    {
+      "name": "Ethereum",
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "symbol": "multiETH",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/eth.svg"
+    },
+    {
+      "name": "Binance-Peg BUSD Token",
+      "address": "0x218c3c3D49d0E7B37aff0D8bB079de36Ae61A4c0",
+      "symbol": "multiBUSD",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/busd.svg"
+    },
+    {
+      "name": "Binance",
+      "address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+      "symbol": "multiBNB",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/bnb.svg"
+    },
+    {
+      "chainId": 2001,
+      "address": "0x8c008BBA2Dd56b99f4A6aB276bE3a478cB075F0C",
+      "symbol": "BLUES",
+      "name": "BLUES",
+      "decimals": 18,
+      "logoURI": "/images/tokens/blues.svg"
+    },
+    {
+      "chainId": 2001,
+      "address": "0x461d52769884ca6235B685EF2040F47d30C94EB5",
+      "symbol": "multiOCC",
+      "name": "OCC",
+      "decimals": 18,
+      "logoURI": "/images/tokens/occ.svg"
+    },
+    {
+      "name": "Decentraland",
+      "address": "0x4792C1EcB969B036eb51330c63bD27899A13D84e",
+      "symbol": "multiMANA",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/mana.svg"
+    },
+    {
+      "name": "SAND",
+      "address": "0x6b7a87899490EcE95443e979cA9485CBE7E71522",
+      "symbol": "multiSAND",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/sand.svg"
+    },
+    {
+      "name": "Axie Infinity Shard",
+      "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
+      "symbol": "multiAXS",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/axs.svg"
+    },
+    {
+      "name": "ApeCoin",
+      "address": "0x0dCb0CB0120d355CdE1ce56040be57Add0185BAa",
+      "symbol": "multiAPE",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/ape.svg"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+      "symbol": "multiUNI",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/uni.svg"
+    },
+    {
+      "name": "Aave Token",
+      "address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+      "symbol": "multiAAVE",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/aave.svg"
+    },
+    {
+      "name": "Synthetix Network Token",
+      "address": "0x3028b4395F98777123C7da327010c40f3c7Cc4Ef",
+      "symbol": "multiSNX",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/snx.svg"
+    },
+    {
+      "name": "SushiToken",
+      "address": "0xb12c13e66AdE1F72f71834f2FC5082Db8C091358",
+      "symbol": "multiSUSHI",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/sushi.svg"
+    },
+    {
+      "name": "Avalanche",
+      "address": "0x65e66a61D0a8F1e686C2D6083ad611a10D84D97A",
+      "symbol": "multiAVAX",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/avax.svg"
+    },
+    {
+      "name": "deFIRE",
+      "address": "0xb2c22A9fb4FC02eb9D1d337655Ce079a04a526C7",
+      "symbol": "multiCWAP",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/cwap.svg"
+    },
+    {
+      "name": "CardWallet",
+      "address": "0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC",
+      "symbol": "multiCW",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/cw.svg"
+    },
+    {
+      "name": "Dai Token",
+      "address": "0x6De33698e9e9b787e09d3Bd7771ef63557E148bb",
+      "symbol": "ceDAI",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/dai.svg"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x3795C36e7D12A8c252A20C5a7B455f7c57b60283",
+      "symbol": "ceUSDT",
+      "decimals": 6,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/usdt.svg"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x6a2d262D56735DbA19Dd70682B39F6bE9a931D98",
+      "symbol": "ceUSDC",
+      "decimals": 6,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/usdc.svg"
+    },
+    {
+      "name": "Ethereum",
+      "address": "0x81ECac0D6Be0550A00FF064a4f9dd2400585FE9c",
+      "symbol": "ceETH",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/eth.svg"
+    },
+    {
+      "name": "Binance-Peg BUSD Token",
+      "address": "0x4Bf769b05E832FCdc9053fFFBC78Ca889aCb5E1E",
+      "symbol": "ceBUSD",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/busd.svg"
+    },
+    {
+      "name": "Binance",
+      "address": "0x7f27352D5F83Db87a5A3E00f4B07Cc2138D8ee52",
+      "symbol": "ceBNB",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/bnb.svg"
+    },
+    {
+      "name": "Avalanche",
+      "address": "0x86c28C9a6f2DC3C156AA2ad450F0F9d3A5Dec12e",
+      "symbol": "ceAVAX",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/avax.svg"
+    },
+    {
+      "name": "Fantom",
+      "address": "0xc3FEc6F18dDb7583DA572374Ca8d11c6F0590dAe",
+      "symbol": "ceFTM",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/ftm.svg"
+    },
+    {
+      "name": "Polygon",
+      "address": "0x8006320739fC281da67Ee62eB9b4Ef8ADD5C903a",
+      "symbol": "ceMATIC",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/matic.svg"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xab58DA63DFDd6B97EAaB3C94165Ef6f43d951fb2",
+      "symbol": "madUSDT",
+      "decimals": 6,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/usdt.svg"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x5a955FDdF055F2dE3281d99718f5f1531744B102",
+      "symbol": "madUSDC",
+      "decimals": 6,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/usdc.svg"
+    },
+    {
+      "name": "Frax",
+      "address": "0x362233F1eF554Ca08555Ca191b4887c2C3132834",
+      "symbol": "madFRAX",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/frax.svg"
+    },
+    {
+      "name": "VYFI",
+      "address": "0x55fD7731665F4f4CbE9894b3b6982FBA8a12AF45",
+      "symbol": "VYFI",
+      "decimals": 6,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/vyfi.svg"
+    },
+    {
+      "name": "NMKR",
+      "address": "0x46f07469c0163d509F22443a6aa4eb6536A74F58",
+      "symbol": "NMKR",
+      "decimals": 6,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/nmkr.svg"
+    },
+    {
+      "name": "Cornucopias",
+      "address": "0x1af394Cd3568D162406668317020A8c39Cc3fF5D",
+      "symbol": "COPI",
+      "decimals": 18,
+      "chainId": 2001,
+      "logoURI": "/images/tokens/copi.svg"
+    },
+    {
+      "name": "Wrapped ADA",
+      "address": "0x1a40217B16E7329E27FDC9cED672e1F264e07Cc2",
+      "symbol": "WADA",
+      "decimals": 18,
+      "chainId": 200101,
+      "logoURI": "/images/tokens/ada.svg"
+    },
+    {
+      "name": "Blueshift Wrapped BNB",
+      "address": "0xD0497E11e846df43aC28F899c49572edBd3aD3D0",
+      "symbol": "bWBNB",
+      "decimals": 18,
+      "chainId": 200101,
+      "logoURI": "/images/tokens/bnb.svg"
+    },
+    {
+      "name": "Blueshift BTCB Token",
+      "address": "0x74C9F8b6fA23272d3971A736E84b17B20F262bff",
+      "symbol": "bBTCB",
+      "decimals": 18,
+      "chainId": 200101,
+      "logoURI": "/images/tokens/btcb.svg"
+    },
+    {
+      "name": "Blueshift Ethereum Token",
+      "address": "0x78a3242D9d41F401f69B585635cC7551CCD93b87",
+      "symbol": "bETH",
+      "decimals": 18,
+      "chainId": 200101,
+      "logoURI": "/images/tokens/eth.svg"
+    },
+    {
+      "name": "Blueshift Tether USD",
+      "address": "0x4A41CCcdE01064cf9DA54068BDFB6e6Cb893a6b9",
+      "symbol": "bUSDT",
+      "decimals": 18,
+      "chainId": 200101,
+      "logoURI": "/images/tokens/usdt.svg"
+    },
+    {
+      "name": "Blueshift Dai Token",
+      "address": "0x1c5C747F9C29a6e0F0FA63F7AceEF4E2d750a32c",
+      "symbol": "bDAI",
+      "decimals": 18,
+      "chainId": 200101,
+      "logoURI": "/images/tokens/dai.svg"
+    },
+    {
+      "name": "Blueshift BUSD Token",
+      "address": "0x54a0Af65807b5356fF10E5Dd976fCbCBb2dDCAaE",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 200101,
+      "logoURI": "/images/tokens/busd.svg"
+    },
+    {
+      "name": "Blueshift XRP",
+      "address": "0xDff68132baE1F6594E9dE0D3241218CfB1Db3BC5",
+      "symbol": "bXRP",
+      "decimals": 18,
+      "chainId": 200101,
+      "logoURI": "/images/tokens/xrp.svg"
+    },
+    {
+      "name": "Blueshift USDC Token",
+      "address": "0xC9b98917aeF588985FDC3358AC843c70965c56b1",
+      "symbol": "bUSDC",
+      "decimals": 18,
+      "chainId": 200101,
+      "logoURI": "/images/tokens/usdc.svg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0x3da08B9faf692423A0582e563E66d594775995bc",
+      "symbol": "BLUES",
+      "name": "Blueshift Token",
+      "decimals": 18,
+      "logoURI": "/images/tokens/blues.svg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0xaE73d18b5Fd9Ae4962cBB7B95104dF338670FAfe",
+      "symbol": "6DT",
+      "name": "6DecToken",
+      "decimals": 6,
+      "logoURI": "/images/tokens/6dt.svg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0xfb899254c39DDc11d18A1B91cf3fee508DF5E876",
+      "symbol": "hUSDT",
+      "name": "CURL Tether USD",
+      "decimals": 18,
+      "logoURI": "/images/tokens/usdt.svg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0xFB85ae1B5B90859bBd6B4eF8728980E8EDb805CB",
+      "symbol": "hBTC",
+      "name": "CURL Wrapped BTC",
+      "decimals": 18,
+      "logoURI": "/images/tokens/btc.svg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0x778B9014189393D791119FA3E338242C2df63492",
+      "symbol": "hETH",
+      "name": "CURL Wrapped Ether",
+      "decimals": 18,
+      "logoURI": "/images/tokens/eth.svg"
+    },
+    {
+      "chainId": 200101,
+      "address": "0xA14be38A55afF66c0E9e2d35158f0c4f49226802",
+      "symbol": "CURL",
+      "name": "Curl",
+      "decimals": 18,
+      "logoURI": "/images/tokens/curl.svg"
+    },
+    {
+      "name": "Wrapped ALGO",
+      "address": "0xb8f56715F3006A010025946351c9e5C30A0797bF",
+      "symbol": "WALGO",
+      "decimals": 18,
+      "chainId": 200202,
+      "logoURI": "/images/tokens/algo.svg"
+    },
+    {
+      "name": "Blueshift Algorand Token",
+      "address": "0xade15deF63bfAC462EFf2C4489d8D2143dae48B5",
+      "symbol": "BLUES",
+      "decimals": 18,
+      "chainId": 200202,
+      "logoURI": "/images/tokens/blues.svg"
+    },
+    {
+      "name": "Blueshift Algorand Wrapped BTC",
+      "address": "0x37E7dCd23Ddb8C093a9e717B277a595554978A85",
+      "symbol": "bWBTC",
+      "decimals": 18,
+      "chainId": 200202,
+      "logoURI": "/images/tokens/btc.svg"
+    },
+    {
+      "name": "Blueshift Algorand Wrapped ETH",
+      "address": "0x4F2bcf926cE7AFaCF25CC4C9A2AEce7A7Eeeda4f",
+      "symbol": "bWETH",
+      "decimals": 18,
+      "chainId": 200202,
+      "logoURI": "/images/tokens/eth.svg"
+    },
+    {
+      "name": "Blueshift Algorand Wrapped BNB",
+      "address": "0x29894c04E9ff99546aF755ca018550F10BE2006F",
+      "symbol": "bWBNB",
+      "decimals": 18,
+      "chainId": 200202,
+      "logoURI": "/images/tokens/bnb.svg"
+    },
+    {
+      "name": "Blueshift Algorand Wrapped XRP",
+      "address": "0xCde3430A7F892dd0c71b72aa55047f6F95B6D2d5",
+      "symbol": "bWXRP",
+      "decimals": 18,
+      "chainId": 200202,
+      "logoURI": "/images/tokens/xrp.svg"
+    },
+    {
+      "name": "Blueshift Algorand BUSD",
+      "address": "0x316dC2e1793C9c2264A073413eBeD49621da946A",
+      "symbol": "bBUSD",
+      "decimals": 6,
+      "chainId": 200202,
+      "logoURI": "/images/tokens/busd.svg"
+    },
+    {
+      "name": "Blueshift Algorand DAI",
+      "address": "0xAEe334A87b7E9244Cc1d876c9e152403951A6160",
+      "symbol": "bDAI",
+      "decimals": 6,
+      "chainId": 200202,
+      "logoURI": "/images/tokens/dai.svg"
+    },
+    {
+      "name": "Blueshift Algorand USDT",
+      "address": "0xA1Aa70691eeba866bc4AB2B8eE790c3597914e92",
+      "symbol": "bUSDT",
+      "decimals": 6,
+      "chainId": 200202,
+      "logoURI": "/images/tokens/usdt.svg"
+    },
+    {
+      "name": "Blueshift Algorand USDC",
+      "address": "0xF08d3Bdf4d27d0595990Ca613eF085A4087352e0",
+      "symbol": "bUSDC",
+      "decimals": 6,
+      "chainId": 200202,
+      "logoURI": "/images/tokens/usdc.svg"
+    },
+    {
+      "name": "Wrapped ALGO",
+      "address": "0xaF86E6c5Fd9dAf53e5100ed38BaB2572609fCA27",
+      "symbol": "WALGO",
+      "decimals": 18,
+      "chainId": 2002,
+      "logoURI": "/images/tokens/algo.svg"
+    },
+    {
+      "chainId": 2002,
+      "address": "0xc9BAA8cfdDe8E328787E29b4B078abf2DaDc2055",
+      "symbol": "BLUES",
+      "name": "BLUES",
+      "decimals": 18,
+      "logoURI": "/images/tokens/blues.svg"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x522B61755b5FF8176B2931DA7bF1a5F9414Eb710",
+      "symbol": "ceUSDT",
+      "decimals": 6,
+      "chainId": 2002,
+      "logoURI": "/images/tokens/usdt.svg"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x2421db204968A367CC2C866CD057fA754Cb84EdF",
+      "symbol": "ceUSDC",
+      "decimals": 6,
+      "chainId": 2002,
+      "logoURI": "/images/tokens/usdc.svg"
+    },
+    {
+      "name": "Dai Token",
+      "address": "0x150d2421E09eEa31beaa68b7a248700EEcEda87a",
+      "symbol": "ceDAI",
+      "decimals": 18,
+      "chainId": 2002,
+      "logoURI": "/images/tokens/dai.svg"
+    },
+    {
+      "name": "Binance-Peg BUSD Token",
+      "address": "0x8Dc0Dfa2AeC0d4410c8C60c5f9cD0CD37b05a06a",
+      "symbol": "ceBUSD",
+      "decimals": 18,
+      "chainId": 2002,
+      "logoURI": "/images/tokens/busd.svg"
+    },
+    {
+      "name": "USDC-31566704",
+      "address": "0xBc31960A049Fe10297Ed8432Fb61DD734fEAd4ea",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 2002,
+      "logoURI": "/images/tokens/usdc.svg"
+    },
+    {
+      "name": "USDt-312769",
+      "address": "0x32564ae38E5DBf316958CE25A6aD2A2249EbCc2D",
+      "symbol": "USDt",
+      "decimals": 6,
+      "chainId": 2002,
+      "logoURI": "/images/tokens/usdt.svg"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+      "symbol": "multiUSDT",
+      "decimals": 6,
+      "chainId": 2002,
+      "logoURI": "/images/tokens/usdt.svg"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+      "symbol": "multiUSDC",
+      "decimals": 6,
+      "chainId": 2002,
+      "logoURI": "/images/tokens/usdc.svg"
+    },    
+    {
+      "name": "Binance-Peg BUSD Token",
+      "address": "0xeFAeeE334F0Fd1712f9a8cc375f427D9Cdd40d73",
+      "symbol": "multiBUSD",
+      "decimals": 18,
+      "chainId": 2002,
+      "logoURI": "/images/tokens/busd.svg"
+    },    
+    {
+      "name": "Wrapped KAVA",
+      "address": "0xFa95D53e0B6e82b2137Faa70FD7E4a4DC70Da449",
+      "symbol": "WKAVA",
+      "decimals": 18,
+      "chainId": 2221,
+      "logoURI": "/images/tokens/kava.svg"
+    },
+    {
+      "name": "Blueshift Kava Token",
+      "address": "0xade15deF63bfAC462EFf2C4489d8D2143dae48B5",
+      "symbol": "BLUES",
+      "decimals": 18,
+      "chainId": 2221,
+      "logoURI": "/images/tokens/blues.svg"
+    },
+    {
+      "name": "Blueshift Kava Wrapped BTC",
+      "address": "0x316dC2e1793C9c2264A073413eBeD49621da946A",
+      "symbol": "bWBTC",
+      "decimals": 18,
+      "chainId": 2221,
+      "logoURI": "/images/tokens/btc.svg"
+    },
+    {
+      "name": "Blueshift Kava Wrapped ETH",
+      "address": "0xAEe334A87b7E9244Cc1d876c9e152403951A6160",
+      "symbol": "bWETH",
+      "decimals": 18,
+      "chainId": 2221,
+      "logoURI": "/images/tokens/eth.svg"
+    },
+    {
+      "name": "Blueshift Kava Wrapped BNB",
+      "address": "0xA1Aa70691eeba866bc4AB2B8eE790c3597914e92",
+      "symbol": "bWBNB",
+      "decimals": 18,
+      "chainId": 2221,
+      "logoURI": "/images/tokens/bnb.svg"
+    },
+    {
+      "name": "Blueshift Kava Wrapped XRP",
+      "address": "0xF08d3Bdf4d27d0595990Ca613eF085A4087352e0",
+      "symbol": "bWXRP",
+      "decimals": 18,
+      "chainId": 2221,
+      "logoURI": "/images/tokens/xrp.svg"
+    },
+    {
+      "name": "Blueshift Kava BUSD",
+      "address": "0x29894c04E9ff99546aF755ca018550F10BE2006F",
+      "symbol": "bBUSD",
+      "decimals": 6,
+      "chainId": 2221,
+      "logoURI": "/images/tokens/busd.svg"
+    },
+    {
+      "name": "Blueshift Kava DAI",
+      "address": "0xCde3430A7F892dd0c71b72aa55047f6F95B6D2d5",
+      "symbol": "bDAI",
+      "decimals": 6,
+      "chainId": 2221,
+      "logoURI": "/images/tokens/dai.svg"
+    },
+    {
+      "name": "Blueshift Kava USDT",
+      "address": "0x4F2bcf926cE7AFaCF25CC4C9A2AEce7A7Eeeda4f",
+      "symbol": "bUSDT",
+      "decimals": 6,
+      "chainId": 2221,
+      "logoURI": "/images/tokens/usdt.svg"
+    },
+    {
+      "name": "Blueshift Kava USDC",
+      "address": "0x37E7dCd23Ddb8C093a9e717B277a595554978A85",
+      "symbol": "bUSDC",
+      "decimals": 6,
+      "chainId": 2221,
+      "logoURI": "/images/tokens/usdc.svg"
+    }
+  ]
+}
